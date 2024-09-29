@@ -1,6 +1,7 @@
 # QASystem: An AI-Powered Question Answering System
 
 **QASystem** is an AI-powered application built using Google Gemini LLM and LlamaIndex, designed to provide precise answers to your questions by indexing and embedding documents. The project is modular, making it easy to maintain and extend, and provides a seamless user interface through Streamlit, allowing file uploads and question submissions.
+![napkin-selection](https://github.com/user-attachments/assets/8fb99ed4-3abe-491b-9cc6-3ff25db17618)
 
 
 ![qa](https://github.com/user-attachments/assets/d86da685-59c5-41ad-9e7e-31f2226f4c4b)
