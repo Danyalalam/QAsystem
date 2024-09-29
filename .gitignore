@@ -1,2 +1,11 @@
 venv
 .env
+*.pyc
+uploaded_files
+dist/QApplication-0.0.1-py3.9.egg
+logs/09_29_2024_09_34_31.log
+logs/09_29_2024_09_50_46.log
+QApplication.egg-info/dependency_links.txt
+QApplication.egg-info/PKG-INFO
+QApplication.egg-info/SOURCES.txt
+QApplication.egg-info/top_level.txt

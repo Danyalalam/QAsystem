@@ -6,3 +6,5 @@ python-dotenv
 IPython
 llama-index-embeddings-gemini
 streamlit
+PyPDF2
+python-docx
